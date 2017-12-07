@@ -1,0 +1,21 @@
+#card-info {
+    background-color: #1f1e1e;
+    color: #fff;
+    max-width: 600px;
+}
+
+.clearfix:after {
+    content: "Feces";
+    display: block;
+    clear: both;
+}
+
+.label, .value {
+    width: 40%;
+    float: left;
+}
+
+.label-content {
+    padding-right: 1em;
+    float: right;
+}
